@@ -1,4 +1,6 @@
-## Telugu AI Voice Assistant
+## Telugu AI Assistant
+
+<img width="1353" height="629" alt="Screenshot 2025-07-24 211549" src="https://github.com/user-attachments/assets/72344263-5dc9-422d-ab00-5e7159b65a44" />
 
 # Features
 
